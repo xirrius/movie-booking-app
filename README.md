@@ -9,7 +9,7 @@
 
 ### **Features**
 
-#### *User*
+### *User*
 - Sign up as a new user
 - Login as an existing user
 - View user profile
