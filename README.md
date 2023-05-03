@@ -1,5 +1,5 @@
 # **Movie Booking Application**
-<br>
+
 
 ## **Description**
 
@@ -27,6 +27,7 @@
 ***
 
 **Note:** Data fetching is performed from the backend. Implementaion of various API's for the user, admin, movies and booking section.
+<br>
 Thank you !
 
 ***
