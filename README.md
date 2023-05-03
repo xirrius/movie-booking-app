@@ -9,18 +9,18 @@
 
 ### **Features**
 
-### *User*
+#### *User*
 - Sign up as a new user
 - Login as an existing user
 - View user profile
 - Book a movie
 - Delete a booking
 
-### *Admin*
+#### *Admin*
 - Login as an existing admin
 - Add a new movie along with movie details
 
-### *Other Features*
+#### *Other Features*
 - View all movies
 - Search up movies
 
