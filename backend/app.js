@@ -29,5 +29,5 @@ app.use("/booking", bookingRouter);
 mongoose.connect(`${process.env.DATABASE}`)
 
 app.listen(PORT, () => {
-    console.log(`connected to local host ${5000}`);
+    console.log(`Database connected.`);
 })
