@@ -9,4 +9,3 @@ adminRouter.get('/',getAdmins);
 adminRouter.get("/:id", getAdminByID);
 
 module.exports = adminRouter
- 
